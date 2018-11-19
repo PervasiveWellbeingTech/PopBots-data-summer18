@@ -10,6 +10,10 @@ During the summer of 2018, the Pervasive Wellbeing Technology Lab used Amazon Me
   Phase 3. Have people rank and categorize (good, bad, neutral) multiple responses (selected responses from part 2. + “ideal” response from part 1.), given a stressor. To make sure people are putting thought into their responses, require them to provide justifications for how they determined if statements were good/bad/neutral, and maybe have them “fix” the responses they categorized as bad.
 
 Data from the 3 phases are contained in this repo:
+
 [Phase 1 data](stress_1.tsv)
+[Phase 2 data](stress_2.tsv)
+[Phase 3 data](stress_3.tsv)
   
-We also have data from user conversations via Facebook Messenger, when we were still using the Messenger platform. We were able to perform some analyses on this data, but for privacy purposes, we cannot share user conversation data on github.
+  
+We also have data from user conversations via Facebook Messenger, when we were still using the Messenger platform. This data is stored on the Stanford Department of Computer Science's commuter server. We were able to perform some analyses on this data, but for privacy purposes, we cannot share user conversation data on github.
